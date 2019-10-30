@@ -1,9 +1,9 @@
 {
-  "name": "git-rev-sync",
-  "version": "1.12.0",
+  "name": "@laysent/git-rev-sync",
+  "version": "1.13.0",
   "author": "kurttheviking",
   "bugs": {
-    "url": "https://github.com/kurttheviking/git-rev-sync-js/issues"
+    "url": "https://github.com/laysent/git-rev-sync-js/issues"
   },
   "contributors": [
     {
@@ -49,6 +49,11 @@
     {
       "name": "Tiberiu Zuld",
       "url": "https://github.com/tiberiuzuld"
+    },
+    {
+      "name": "LaySent",
+      "email": "laysent@hotmail.com",
+      "url": "https://github.com/laysent"
     }
   ],
   "description": "Synchronously get the current git commit hash, tag, or branch",
